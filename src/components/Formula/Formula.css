@@ -1,5 +1,5 @@
 .Formula-container {
-    width: 350px;
+    width: 100%;
     padding: 12px;
     border-bottom: 1px rgb(225, 225, 225) solid;
     border-top: 1px rgb(225, 225, 225) solid;
@@ -15,7 +15,7 @@
 .Formula-formula {
     padding: 8px 0;
     text-align: center;
-    overflow-x: scroll;
+    overflow-x: auto;
 }
 
 .Formula-comment {

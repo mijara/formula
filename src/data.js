@@ -1,6 +1,35 @@
 const data = {
   "folders": [
     {
+      "title": "El Efecto Fotoeléctrico",
+      "formulas": [
+        {
+          "title": "Energía Cinética Máxima",
+          "formula": "W_{tot} = - eV_0 = \\Delta K = 0 - K_{max}",
+        },
+        {
+          "title": "Energía Cinética Máxima",
+          "formula": "K_{max} = \\frac{1}{2} m v_{max}^2 = e V_0",
+        },
+        {
+          "title": "Energía de un Fotón",
+          "formula": "E = hf = \\frac{hc}{\\lambda}",
+        },
+        {
+          "title": "Efecto Fotoeléctrico",
+          "formula": "K_{max} = e V_0 = hf - \\phi",
+        },
+        {
+          "title": "Constante de Planck",
+          "formula": "h = 6,626 \\times 10 ^{-34} [\\text{J s}]",
+        },
+        {
+          "title": "Cantidad de Movimiento",
+          "formula": "p = \\frac{E}{c} = \\frac{hf}{c} = \\frac{h}{\\lambda}",
+        },
+      ]
+    },
+    {
       "title": "Ondas de De Broglie",
       "formulas": [
         {

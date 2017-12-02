@@ -10,6 +10,7 @@
     "react-dom": "^16.1.1",
     "react-scripts": "1.0.17"
   },
+  "homepage": "http://alumnos.inf.utfsm.cl/~mijara/formula/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
