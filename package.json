@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "fuse.js": "^3.2.0",
     "katex": "^0.9.0-alpha2",
-    "proptypes": "^1.1.0",
+    "prop-types": "^15.6.0",
     "react": "^16.1.1",
     "react-dom": "^16.1.1",
-    "react-scripts": "1.0.17",
-    "prop-types": "latest"
+    "react-scripts": "1.0.17"
   },
   "scripts": {
     "start": "react-scripts start",
