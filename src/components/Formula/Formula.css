@@ -1,0 +1,24 @@
+.Formula-container {
+    width: 350px;
+    padding: 12px;
+    border-bottom: 1px rgb(225, 225, 225) solid;
+    border-top: 1px rgb(225, 225, 225) solid;
+    background-color: #ffffff;
+    margin-bottom: 5px;
+}
+
+.Formula-title {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.Formula-formula {
+    padding: 8px 0;
+    text-align: center;
+    overflow-x: scroll;
+}
+
+.Formula-comment {
+    text-align: justify;
+    font-size: 14px;
+}

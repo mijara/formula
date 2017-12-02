@@ -1,0 +1,17 @@
+.Folder-container {
+    margin-top: 16px;
+}
+
+.Folder-title {
+    font-size: 14px;
+    padding: 0 8px;
+    text-transform: uppercase;
+    color: #a6a6a6;
+    font-weight: normal;
+}
+
+.Folder-formulas {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,22 @@
+.Header-container {
+    padding: 24px 8px 8px;
+    background-color: rgb(246, 246, 246);
+    border-bottom: 1px rgb(225, 225, 225) solid;
+}
+
+.Header-title {
+    margin: 0;
+}
+
+.Header-search {
+    border: 0;
+    font-size: 16px;
+    width: 100%;
+    box-sizing: border-box;
+    background: rgb(227, 226, 231) url(magnifying-glass.svg) no-repeat scroll 7px 10px;
+    background-size: 16px;
+    padding: 8px 8px 8px 30px;
+    border-radius: 7px;
+    margin-top: 6px;
+    outline: none;
+}
